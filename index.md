@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Alketre  অ্যালকেটরে″″
+# Alketre =  অ্যালকেটরে
 
 Thshure
 <!--Text can be **bold**, _italic_, or ~~strikethrough~~.
