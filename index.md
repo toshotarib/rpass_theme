@@ -2,10 +2,10 @@
 layout: default
 ---
 
-# Alketre =  অ্যালকেটরে
+# Alketre = অ্যালকেটরে
 
 Thshure
-<!--Text can be **bold**, _italic_, or ~~strikethrough~~.
+<!--Text can be **bold**, _italic_, or ~~strikethrough~~.-->
 
 [Link to Linkedin](https://www.linkedin.com/in/kazi-mh-alam/).
 
