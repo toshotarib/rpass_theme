@@ -6,8 +6,3 @@ google_analytics: G-H1EY97H2S4
 theme: jekyll-theme-minimal
 plugins:
   - jekyll-seo-tag
-
-
-
-imagesurl: "/assets/img_gal/"
-thumbsurl: "/assets/thumbs/"
