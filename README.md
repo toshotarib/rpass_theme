@@ -1,6 +1,6 @@
-#RPass_theme
+# RPass_theme
 
-This theme is developed by 
+This theme is developed by
 
 # The Minimal theme
 
