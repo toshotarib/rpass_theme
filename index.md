@@ -8,7 +8,7 @@ layout: default
 <!--Text can be **bold**, _italic_, or ~~strikethrough~~.-->
 
 <!--[Link to Linkedin](https://www.linkedin.com/in/kazi-mh-alam/).-->
-[Link to another page](./another-page.html).
+
 
 <!--There should be whitespace between paragraphs.
 
